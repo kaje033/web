@@ -4,6 +4,10 @@ body{background-color: lightblue; user-select: none;}
 .homelink {text-decoration: none;color: #000;}
 .homelink:hover {text-decoration: none;color: #a01010;}
 
+.en{width: 70px; margin-top: 60px; list-style: none;}
+.enlink {text-decoration: none;color: #000;}
+.enlink:hover {text-decoration: none;color: #a01010;}
+
 input[id="menuicon"] {display:none;}
 input[id="menuicon"] + label {display:block;margin:10px;width:60px;height:40px;position:relative;cursor:pointer;}
 input[id="menuicon"] + label span {display:block;position:absolute;width:100%;height:5px;border-radius:10px;background:#000;transition:all .35s;}
