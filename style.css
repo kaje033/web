@@ -1,10 +1,8 @@
 
 body{background-color: lightblue; user-select: none;}
-.home{width: 70px; margin-top: 60px; list-style: none;}
 .homelink {text-decoration: none;color: #000;}
 .homelink:hover {text-decoration: none;color: #a01010;}
 
-.en{width: 70px; margin-top: 60px; list-style: none;}
 .enlink {text-decoration: none;color: #000;}
 .enlink:hover {text-decoration: none;color: #a01010;}
 
